@@ -338,13 +338,14 @@ namespace C_Sharp_Introduction
             //Nullable();
             //ExceptionHandling();
             //EnumAndMethod();
-            //Array();
+            Array();
             //passingArrayToFunction(5, 10, 20, 30, 40, 50);
             //SingleLineFun();
             //var (max,secondMax)=MaxValues();
             //Console.WriteLine($"{max} {secondMax}");
-            refVsOut();
-            
+            //refVsOut(); 
+
+
 
 
 
