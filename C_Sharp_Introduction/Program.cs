@@ -296,6 +296,7 @@ namespace C_Sharp_Introduction
 
             AddOut(out y);
             Console.WriteLine(y);
+            Console.WriteLine($"{x}  {y}");
             
 
         }
